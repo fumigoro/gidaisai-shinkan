@@ -94,8 +94,9 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">新歓イベント情報</h2>
-          <p class="lead">3月末頃より順次開催予定です。</p>
+          <h2 class="featurette-heading">活動頻度は？</h2>
+          <p class="lead">3, 6 ,11月にある委員会全体での集まりに加え、5~7月には数回の部署ごとの集まりがあります。</p>
+          <p class="lead">9月中旬から岐大祭当日までは学内ある合宿所を拠点とし各自空きコマなどに集まって看板づくりや打合せなどの準備を進めていきます。(宿泊はしません)</p>
         </div>
         <div class="col-md-5">
           <img
@@ -120,10 +121,10 @@
             各学部ごとにガイダンス時に開催予定の岐大祭紹介の際に入会いただくか、下記入会フォームからお申し込みください！
           </p>
 
-          <p class="lead">先輩の声やQ&Aも公開予定</p>
           <p>
-            <a href="" class="link">(準備中)入会申し込みフォームはこちら</a>
+            <a href="https://forms.gle/7pYFz7wj78KZPXbX8" class="btn btn-primary" target="_blank">入会申し込みフォームはこちら</a>
           </p>
+
         </div>
         <div class="col-md-5 order-md-1">
           <img
