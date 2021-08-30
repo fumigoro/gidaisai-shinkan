@@ -1,20 +1,9 @@
-# shinkan
+# 岐阜大学祭全学執行委員会 新歓特設ウェブサイト
 
-## Build Setup
+コロナ渦で対面での新歓ができないことを受け、岐大祭執行委員会について新入生に知ってもらうための新歓ウェブサイト
 
-```bash
-# install dependencies
-$ npm install
+Nuxt.js+nuxt/contentで作成
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+岐阜大学祭公式ウェブサイト内にて公開中！！
+https://www.gidaisai.jp/shinkan/
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
