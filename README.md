@@ -19,6 +19,8 @@ git clone https://github.com/fumigoro/gidaisai-shinkan.git
 
 ## パッケージのインストール
 
+この手順の前に、Node.jsの環境構築が必要です。
+
 ```shell
 npm install
 ```
